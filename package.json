@@ -1,0 +1,14 @@
+{
+    "name": "flagr",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "vitorcamachoo",
+    "license": "MIT",
+    "scripts": {
+        "test": "ava",
+        "test:watch": "npm test -- --watch"
+    },
+    "devDependencies": {
+        "ava": "0.17.0"
+    }
+}
