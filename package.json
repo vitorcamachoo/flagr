@@ -2,8 +2,32 @@
     "name": "flagr",
     "version": "1.0.0",
     "main": "index.js",
-    "author": "vitorcamachoo",
+    "author": {
+      "name": "Vitor Camacho",
+      "email": "vitor.camachoo@gmail.com"
+    },
+    "engines": {
+      "node": ">=6.0.0"
+    },
+    "keywords": [
+      "find",
+      "flag",
+      "flags",
+      "arg",
+      "argv",
+      "args",
+      "cli",
+      "contains",
+      "check",
+      "get",
+      "getFlags",
+      "exist",
+      "existFlags",
+      "find",
+      "process"
+    ],
     "license": "UNLICENSED",
+    "repository": "https://github.com/vitorcamachoo/flagr",
     "scripts": {
         "test": "ava",
         "test:watch": "npm test -- --watch"
