@@ -49,7 +49,7 @@ get('--watch');
 get('--env');
 //=> production
 
-exist('env');
+get('env');
 //=> production
 
 ```
