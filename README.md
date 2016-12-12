@@ -1,3 +1,11 @@
+npmcli
+=========
+[![npm version](https://badge.fury.io/js/flagr.svg)](https://badge.fury.io/js/flagr)
+[![Dependency Status](https://img.shields.io/david/vitorcamachoo/flagr.svg)](https://david-dm.org/vitorcamachoo/flagr)
+[![David](https://img.shields.io/david/dev/vitorcamachoo/flagr.svg)]()
+[![npm](https://img.shields.io/npm/dm/flagr.svg?maxAge=2592000)]()
+
+> Check if exist or get value from cli flags.
 ## Install
 
 ```
