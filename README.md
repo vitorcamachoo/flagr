@@ -1,8 +1,7 @@
 Get all flags present on argv and his value easily Check if argv has a specific flag
 
-========
-npmcli
-=========
+
+
 [![npm version](https://badge.fury.io/js/flagr.svg)](https://badge.fury.io/js/flagr)
 [![Dependency Status](https://img.shields.io/david/vitorcamachoo/flagr.svg)](https://david-dm.org/vitorcamachoo/flagr)
 [![David](https://img.shields.io/david/dev/vitorcamachoo/flagr.svg)]()
