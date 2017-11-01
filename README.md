@@ -1,6 +1,8 @@
+Get all flags present on argv and his value easily Check if argv has a specific flag
+
 ## Install
 
-```
+```sh
 $ npm install --save flagr
 ```
 
@@ -8,9 +10,11 @@ $ npm install --save flagr
 ## Usage
 
 ### Check if a given flag exists
-```
+
+```sh
 $ node foo.js --prod --watch --env="production"
 ```
+
 ```js
 // foo.js
 const { exist } = require('flagr');
@@ -33,9 +37,11 @@ exist('--test');
 ```
 
 ### Retrieve flag value
-```
+
+```sh
 $ node foo.js --prod --watch="true" --env="production"
 ```
+
 ```js
 // foo.js
 const { get } = require('flagr');
@@ -51,7 +57,6 @@ get('--env');
 
 get('env');
 //=> production
-
 ```
 
 ## API
