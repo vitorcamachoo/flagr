@@ -9,6 +9,8 @@ Get all flags present on argv and his value easily Check if argv has a specific 
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/vitorcamachoo/flagr.svg)](https://greenkeeper.io/)
+
 ```sh
 $ npm install --save flagr
 ```
